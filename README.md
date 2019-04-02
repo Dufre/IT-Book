@@ -18,6 +18,7 @@
 
 # Algorithm
 - 《大话数据结构与算法》
+- 《Algorithm》
 - 《剑指offer》
 
 这一部分还是刷题比较有用，LeetCode Top 100 Liked Questions由easy->hard刷
